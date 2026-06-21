@@ -1,13 +1,11 @@
 <p align="center">
-    <img src="assets/logo.png" width="2700">
+    <img src="assets/logo.png" width="270">
 </p>
-
-<h1 align="center">🛡️ FraudShield AI 2.0</h1>
 
 <p align="center">
-Plataforma Inteligente de Detecção de Fraudes Financeiras com Machine Learning,
-Explainable AI e Risk Analytics
+  <img src="assets/logo.png" width="35%">
 </p>
+<h1 align="center">🛡️ FraudShield AI 2.0</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
