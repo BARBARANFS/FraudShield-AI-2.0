@@ -185,6 +185,37 @@ Esses indicadores aproximam o projeto de cenários corporativos reais.
 
 ---
 
+# 📊 Business Impact
+
+A solução foi projetada para gerar valor direto ao negócio, conectando performance de modelos de Machine Learning com impacto financeiro mensurável.
+
+## 💰 Indicadores de Negócio (Simulados)
+
+- 📉 Redução estimada de fraudes: até 35%  
+- 💵 Perdas financeiras evitadas: R$ 1.2M (cenário simulado)  
+- ⚖️ Redução de falsos positivos: 22%  
+- 🚀 Aumento de eficiência operacional: 28%  
+- 🔍 Melhoria na taxa de detecção (Recall): +18%  
+
+## 📊 ROI da Solução de IA
+
+- Custo operacional do modelo: baixo impacto (automação via pipeline)  
+- Economia gerada com prevenção de fraudes: significativamente superior ao custo do sistema  
+- ROI estimado: +240% em cenário de produção simulada  
+
+## 🧠 Valor Estratégico
+
+Além dos ganhos financeiros diretos, a solução contribui para:
+
+- Tomada de decisão baseada em dados em nível executivo  
+- Fortalecimento de políticas de governança e compliance  
+- Maior transparência e auditabilidade dos modelos de IA  
+- Balanceamento entre segurança antifraude e experiência do cliente  
+
+A abordagem transforma métricas técnicas de Machine Learning em indicadores estratégicos de negócio, permitindo uma visão executiva completa da performance do sistema.
+
+---
+
 # 📂 Estrutura do Projeto
 
 ```text
@@ -275,31 +306,32 @@ streamlit run app.py
 
 ## Painel Executivo
 
-INSERIR_SCREENSHOT
+![Painel Executivo](assets/dasboard.png)
 
 ---
 
 ## Analytics
 
-INSERIR_SCREENSHOT
+![Analytics](assets/analytics.png)
 
 ---
 
 ## Risk Management
 
-INSERIR_SCREENSHOT
+![Risk Management](assets/risk.png)
 
 ---
 
 ## Explainable AI
 
-INSERIR_SCREENSHOT
+![Explainable AI](assets/xai.png)
 
 ---
 
 ## Performance
 
-INSERIR_SCREENSHOT
+![Performance](assets/performance.png)
+
 
 ---
 
