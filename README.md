@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="100%">
+    <img src="assets/logo.png" width="80%">
 </p>
 
 <h1 align="center">🛡️ FraudShield AI 2.0</h1>
@@ -9,19 +9,12 @@ Plataforma Inteligente de Detecção de Fraudes Financeiras com Machine Learning
 </h3>
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit)
-
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
-
-![Explainable AI](https://img.shields.io/badge/XAI-Explainability-purple?style=for-the-badge)
-
-![LightGBM](https://img.shields.io/badge/LightGBM-Model-success?style=for-the-badge)
-
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit">
+  <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/XAI-Explainability-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LightGBM-Model-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge">
 </p>
 
 ---
