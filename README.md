@@ -1,7 +1,12 @@
 <p align="center">
-  <img src="assets/logo.png" width="35%">
+  <img src="assets/logo.png" width="45%">
 </p>
-<h1 align="center">🛡️ FraudShield AI 2.0</h1>
+
+<h1 align="center">FraudShield AI 2.0</h1>
+
+<h3 align="center">
+Detecção Inteligente de Fraudes Financeiras com Machine Learning, Explainable AI (XAI) e Risk Analytics
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
@@ -11,7 +16,6 @@
   <img src="https://img.shields.io/badge/LightGBM-Model-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge">
 </p>
-
 ---
 
 # 🎥 Demonstração
