@@ -342,14 +342,20 @@ streamlit run app.py
 
 **Barbara Nascimento de Freitas Silva**
 
-Projeto desenvolvido para demonstração de competências em:
+Projeto desenvolvido no contexto do Bootcamp da DIO em parceria com a Accenture Brasil, na trilha de Análise de Dados com Python.
 
-- Data Science
-- Machine Learning
-- Explainable AI
-- Analytics
-- Risk Management
-- Visualização de Dados
+---
+
+## 🎯 Competências Demonstradas
+
+Este projeto foi desenvolvido com foco na aplicação prática de técnicas de Data Science e Machine Learning em um cenário de negócio realista, abrangendo:
+
+- 📊 Análise e exploração de dados (Data Analytics)
+- 🧠 Modelagem preditiva com Machine Learning
+- 🔍 Explainable AI (XAI) para interpretação de modelos
+- 💰 Análise de risco e impacto financeiro
+- 📈 Visualização de dados e construção de dashboards
+- ⚙️ Engenharia de pipeline de dados e processamento
 
 ---
 
