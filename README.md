@@ -23,7 +23,7 @@ Detecção Inteligente de Fraudes Financeiras com Machine Learning, Explainable 
 
 Link será disponibilizado após a publicação do vídeo.
 
-🔗 **Link:** INSIRA_AQUI_SEU_LINK_DO_GOOGLE_DRIVE_OU_YOUTUBE
+🔗 **Link:** https://youtu.be/tSgUv0Sp93o
 
 ---
 
