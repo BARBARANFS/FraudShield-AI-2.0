@@ -1,292 +1,228 @@
 <p align="center">
-  <img src="assets/logo.png" width="45%">
+  <img src="assets/banner.png" width="100%" alt="FraudShield AI 2.0">
 </p>
 
-<h1 align="center">FraudShield AI 2.0</h1>
+# 🛡️ FraudShield AI 2.0
 
-<h3 align="center">
-Detecção Inteligente de Fraudes Financeiras com Machine Learning, Explainable AI (XAI) e Risk Analytics
-</h3>
+> **Financial Risk Analytics with Machine Learning & Explainable AI**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit">
-  <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/XAI-Explainability-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LightGBM-Model-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge">
-</p>
----
-
-
-## 🎥 Demonstração em Vídeo
-
-Link será disponibilizado após a publicação do vídeo.
-
-🔗 **Link:** https://youtu.be/tSgUv0Sp93o
+Plataforma inteligente para detecção de fraudes financeiras que integra **Machine Learning**, **Explainable AI (XAI)**, **Risk Analytics** e **Business Intelligence**, transformando dados em apoio à tomada de decisão.
 
 ---
 
-### Notebook Google Colab
+# 🎥 Demonstração
 
-🔗 **Link:** https://colab.research.google.com/drive/11UPQ7GKEBcStHGm1Ee5-bAqYV89Ami-w?usp=sharing
+📺 **Assista à apresentação do projeto (3 minutos):**
+
+https://youtu.be/tSgUv0Sp93o
+
+---
+
+# 📓 Notebook Google Colab
+
+O desenvolvimento e os experimentos do modelo também podem ser explorados no Google Colab.
+
+🔗 https://colab.research.google.com/drive/11UPQ7GKEBcStHGm1Ee5-bAqYV89Ami-w?usp=sharing
 
 ---
 
 # 📌 Sobre o Projeto
 
-O FraudShield AI 2.0 é uma plataforma de análise e detecção de fraudes financeiras desenvolvida para simular cenários reais de instituições financeiras, fintechs, operadoras de cartão e empresas de meios de pagamento.
+O **FraudShield AI 2.0** foi desenvolvido para simular um ambiente corporativo de detecção de fraudes financeiras, demonstrando como Ciência de Dados e Inteligência Artificial podem apoiar decisões estratégicas em bancos, fintechs e empresas de meios de pagamento.
 
-A solução utiliza algoritmos avançados de Machine Learning para identificar transações suspeitas, calcular impactos financeiros e fornecer explicabilidade das decisões através de técnicas de Explainable AI (XAI).
+Além da construção dos modelos de Machine Learning, a solução incorpora indicadores financeiros, dashboards executivos e técnicas de Explainable AI (XAI), permitindo interpretar o comportamento dos modelos e traduzir resultados técnicos em impacto para o negócio.
 
-Além da modelagem preditiva, a plataforma inclui um dashboard executivo interativo voltado à análise de risco, performance e tomada de decisão estratégica.
+Mais do que identificar transações suspeitas, o projeto demonstra como dados podem ser utilizados para reduzir riscos, aumentar a eficiência operacional e apoiar decisões baseadas em evidências.
 
 ---
 
 # 🎯 Problema de Negócio
 
-Fraudes financeiras geram bilhões em prejuízos anualmente para empresas e instituições financeiras.
+Fraudes financeiras geram bilhões de reais em perdas todos os anos e representam um dos maiores desafios para instituições financeiras.
 
-Os principais desafios são:
+Além da identificação de transações fraudulentas, essas organizações precisam equilibrar diferentes fatores, como precisão do modelo, redução de falsos positivos, transparência das decisões e retorno financeiro da solução.
 
-- Detecção rápida e precisa de fraudes
-- Redução de perdas financeiras operacionais
-- Minimização de falsos positivos
-- Transparência e auditabilidade dos modelos
-- Conformidade com práticas de governança e risco
-
-O FraudShield AI foi desenvolvido para endereçar esses desafios com uso aplicado de Inteligência Artificial.
+O **FraudShield AI 2.0** foi desenvolvido para demonstrar como Machine Learning pode apoiar esse processo de forma inteligente, interpretável e orientada ao negócio.
 
 ---
 
-# 🏦 Aplicações Corporativas
+# ⭐ Por que este projeto é relevante?
 
-A solução pode ser aplicada em:
+Grande parte dos projetos de Machine Learning concentra-se apenas no treinamento e comparação de modelos.
 
-- Bancos
-- Fintechs
-- Seguradoras
-- Operadoras de Cartão
-- Gateways de Pagamento
-- Marketplaces
-- E-commerces
-- Instituições Financeiras Digitais
+O **FraudShield AI 2.0** vai além, integrando análise preditiva, interpretabilidade dos modelos, indicadores financeiros e dashboards executivos para simular um cenário próximo ao encontrado em instituições financeiras.
 
----
+O projeto reúne conhecimentos em:
 
-# 🚀 Funcionalidades 
+- 🤖 Machine Learning
+- 🔍 Explainable AI (XAI)
+- 📊 Risk Analytics
+- 💰 Financial Analytics
+- 📈 Business Intelligence
+- 📉 Model Evaluation
+- 📋 Data Visualization
+- ⚙️ Streamlit
 
-## 📊 Executive Dashboard
-
-- KPIs de fraude em tempo real  
-- Volume e distribuição de transações  
-- Taxa de fraude e perdas estimadas  
+Mais do que construir modelos preditivos, o projeto demonstra como Inteligência Artificial pode gerar valor real para o negócio.
 
 ---
 
-## 📈 Risk Analytics
-
-- Matriz de confusão e métricas de risco  
-- Exposição financeira residual  
-- ROI da solução de IA  
-
----
-
-## 🧠 Explainable AI (XAI)
-
-- Importância de variáveis (feature importance)  
-- Interpretação de decisões do modelo  
-- Suporte à auditoria e compliance  
-
----
-
-## 🏆 Model Performance
-
-- Comparação entre algoritmos  
-- Seleção automática do melhor modelo  
-- Ranking baseado em métrica composta  
-
----
-
-# 🧠 Modelos Utilizados 
-
-| Modelo | Descrição |
-|--------|-----------|
-| Logistic Regression | Modelo baseline interpretável |
-| Random Forest | Ensemble robusto baseado em árvores |
-| LightGBM | Gradient Boosting de alta performance |
-| Multilayer Perceptron (MLP) | Rede neural para padrões não lineares |
-
----
-
-# ⚙️ Pipeline da Solução
+# 🏗️ Arquitetura da Solução
 
 ```text
-Dataset
-    ↓
+                 Dados de Transações
+                         │
+                         ▼
+          Limpeza e Preparação dos Dados
+                         │
+                         ▼
+          Balanceamento das Classes (SMOTE)
+                         │
+                         ▼
+      Treinamento de Modelos de Machine Learning
+                         │
+                         ▼
+              Avaliação e Comparação
+                         │
+                         ▼
+             Explainable AI (SHAP/XAI)
+                         │
+                         ▼
+        Indicadores Financeiros e ROI
+                         │
+                         ▼
+            Dashboard Executivo Streamlit
+```
+
+---
+
+# 🚀 Principais Funcionalidades
+
+- 🛡️ Detecção automática de fraudes financeiras
+- 🤖 Comparação entre diferentes algoritmos de Machine Learning
+- 📊 Dashboard executivo para análise dos resultados
+- 🔍 Explainable AI (XAI) para interpretação das decisões dos modelos
+- 📈 Indicadores de performance e gestão de risco
+- 💰 Estimativa de perdas evitadas e ROI da solução
+- ⚖️ Avaliação financeira da implementação da IA
+- 📋 Comparação automática entre modelos utilizando métricas técnicas e de negócio
+
+---
+
+# 🧠 Modelos Utilizados
+
+| Modelo | Objetivo |
+|---------|----------|
+| Logistic Regression | Modelo baseline interpretável |
+| Random Forest | Ensemble baseado em árvores |
+| LightGBM | Gradient Boosting de alta performance |
+| Multilayer Perceptron (MLP) | Rede neural para padrões complexos |
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| Linguagem | Python |
+| Machine Learning | Scikit-Learn • LightGBM |
+| Balanceamento | SMOTE (Imbalanced-Learn) |
+| Manipulação de Dados | Pandas • NumPy |
+| Visualização | Matplotlib |
+| Dashboard | Streamlit |
+| Explainable AI | SHAP |
+| Ambiente | Google Colab |
+
+---
+
+# 💼 Competências Demonstradas
+
+Durante o desenvolvimento deste projeto foram aplicados conhecimentos em:
+
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- 🔍 Explainable AI (XAI)
+- 💰 Financial Risk Analytics
+- 📈 Business Intelligence
+- 📋 Data Visualization
+- ⚖️ Model Evaluation
+- 🧮 Engenharia de Features
+- ⚙️ Desenvolvimento de Dashboards com Streamlit
+- 🎯 Data-Driven Decision Making
+
+---
+
+# 💰 Impacto de Negócio
+
+Além da avaliação técnica dos modelos, a plataforma traduz os resultados em indicadores financeiros que apoiam decisões estratégicas.
+
+| Indicador | Resultado |
+|-----------|-----------:|
+| 💵 Perdas financeiras evitadas | **R$ 47.500** |
+| ⚖️ Exposição residual ao risco | **R$ 15.000** |
+| 📉 Custo operacional da solução | **R$ 200** |
+| 🚀 ROI estimado | **R$ 47.300** |
+
+Esses indicadores demonstram como modelos de Machine Learning podem gerar valor financeiro ao reduzir perdas, otimizar processos e apoiar decisões orientadas por dados.
+
+---
+
+# 📊 Pipeline da Solução
+
+```text
+Coleta dos Dados
+        │
+        ▼
 Pré-processamento
-    ↓
-Padronização
-    ↓
-SMOTE
-    ↓
+        │
+        ▼
+Balanceamento (SMOTE)
+        │
+        ▼
 Treinamento dos Modelos
-    ↓
-Avaliação
-    ↓
-Explainable AI
-    ↓
+        │
+        ▼
+Avaliação de Performance
+        │
+        ▼
+Explainable AI (SHAP)
+        │
+        ▼
+Business Analytics
+        │
+        ▼
 Dashboard Executivo
 ```
-
----
-
-# 📊 Métricas Avaliadas
-
-A plataforma avalia os modelos utilizando:
-
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC
-- PR-AUC
-
-Além disso, é calculado um indicador proprietário:
-
-### Executive Score
-
-```text
-ROC-AUC → 30%
-Precision → 25%
-Recall → 20%
-F1 Score → 15%
-Accuracy → 10%
-```
-
-Esse score permite identificar automaticamente o modelo mais eficiente para o contexto de fraude financeira.
-
----
-
-# 💰 Análise Financeira
-
-A solução traduz desempenho técnico em impacto de negócio:
-
-- Estimativa de perdas evitadas  
-- Cálculo de exposição ao risco  
-- Custo operacional da operação antifraude  
-- ROI da implementação de IA  
-
----
-
-# ⭐ Diferenciais do Projeto 
-
-- ✔ Plataforma completa de detecção de fraudes end-to-end  
-- ✔ Integração de Machine Learning + XAI + Risk Analytics  
-- ✔ Métrica proprietária de avaliação de modelos (Business Score)  
-- ✔ Simulação de ambiente corporativo real (banco/fintech)  
-- ✔ Dashboard executivo interativo em Streamlit  
-- ✔ Foco em decisão orientada a dados (Data-Driven Decision Making)
-
----
-
-# 📊 Business Impact
-
-A solução transforma resultados de Machine Learning em impacto financeiro direto, permitindo mensuração real do valor gerado pelo sistema de detecção de fraudes.
-
-## 💰 Indicadores de Negócio (Reais)
-
-- 💵 Perdas financeiras evitadas: R$ 47.500  
-- ⚖️ Exposição residual ao risco: R$ 15.000  
-- 📉 Custo operacional da solução: R$ 200  
-- 🚀 ROI da IA: R$ 47.300  
-
-## 📈 Interpretação do ROI
-
-O ROI da solução é calculado com base na diferença entre as perdas financeiras evitadas e os custos operacionais do modelo.
-
-Esse resultado demonstra que a implementação da IA gera retorno financeiro positivo imediato, com alto impacto na mitigação de risco e custo operacional mínimo.
-
-## 🧠 Valor de Negócio
-
-A aplicação do modelo de detecção de fraudes contribui diretamente para:
-
-- Redução efetiva de perdas financeiras em transações suspeitas  
-- Otimização da gestão de risco e exposição residual  
-- Eficiência operacional com automação do processo de detecção  
-- Suporte à tomada de decisão baseada em dados em nível executivo  
-- Fortalecimento da governança e monitoramento de fraudes  
 
 ---
 
 # 📂 Estrutura do Projeto
 
 ```text
-FraudShield-AI/
+FraudShield-AI-2.0/
 │
-├── README.md
-├── logo.png
-├── requirements.txt
-│
+├── assets/
+├── src/
+├── data/
 ├── app.py
-├── dashboard.py
-├── fraud_statistics.py
-├── risks.py
-├── xai.py
-├── performance.py
-├── process.py
-├── evaluation.py
-├── explainability.py
-├── models.py
-├── data_loader.py
-├── financial_metrics.py
-├── styles.py
-│
-└── producer.py
+├── requirements.txt
+└── README.md
 ```
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
-
-### Linguagem
-
-- Python
-
-### Machine Learning
-
-- Scikit-Learn
-- LightGBM
-- Imbalanced-Learn (SMOTE)
-
-### Manipulação de Dados
-
-- Pandas
-- NumPy
-
-### Visualização
-
-- Matplotlib
-- Seaborn
-
-### Dashboard
-
-- Streamlit
-
----
-
-# 📦 Instalação
+# ▶️ Como Executar
 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/FraudShield-AI.git
+git clone https://github.com/BARBARANFS/FraudShield-AI-2.0.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd FraudShield-AI
+cd FraudShield-AI-2.0
 ```
 
 Instale as dependências:
@@ -295,9 +231,7 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 
----
-
-# ▶️ Executando a Aplicação
+Execute a aplicação:
 
 ```bash
 streamlit run app.py
@@ -305,90 +239,106 @@ streamlit run app.py
 
 ---
 
-# 📸 Telas da Plataforma
+# 📸 Dashboards
 
-## Painel Executivo
+## 📊 Executive Dashboard
 
-![Painel Executivo](assets/dasboard.png)
+![Executive Dashboard](assets/dashboard.png)
 
 ---
 
-## Analytics
+## 📈 Analytics
 
 ![Analytics](assets/analytics.png)
 
 ---
 
-## Risk Management
+## ⚖️ Risk Management
 
 ![Risk Management](assets/risk.png)
 
 ---
 
-## Explainable AI
+## 🔍 Explainable AI (XAI)
 
 ![Explainable AI](assets/xai.png)
 
 ---
 
-## Performance
+## 🏆 Model Performance
 
-![Performance](assets/performance.png)
+![Model Performance](assets/performance.png)
 
+---
+
+# 🎓 Contexto
+
+Projeto desenvolvido como entrega final do **Bootcamp Python AI Backend Developer**, promovido pela **Digital Innovation One (DIO)** em parceria com a **Accenture Brasil**.
+
+A solução aplica conceitos de Ciência de Dados, Machine Learning e Inteligência Artificial em um cenário de detecção de fraudes financeiras inspirado em desafios reais do mercado.
+
+---
+
+# 🌐 Papel no Ecossistema
+
+O **FraudShield AI 2.0** representa a etapa final do ecossistema de soluções desenvolvido neste portfólio.
+
+```text
+📘 MiniGuia SFN Investimentos
+          │
+          ▼
+ Engenharia de Conhecimento
+          │
+          ▼
+💙 BIA Academy Finance
+          │
+          ▼
+ IA Generativa + RAG
+          │
+          ▼
+🎙️ VoxAI
+          │
+          ▼
+ IA Conversacional
+          │
+          ▼
+🛡️ FraudShield AI 2.0
+          │
+          ▼
+ Financial Risk Analytics
+```
+
+Cada projeto complementa o anterior, demonstrando a evolução da Engenharia de Conhecimento para aplicações de IA Generativa, IA Conversacional e Machine Learning aplicado à tomada de decisão.
+
+---
+
+# 🔮 Próximos Passos
+
+- Integração com APIs bancárias
+- Detecção de fraudes em tempo real
+- Monitoramento contínuo dos modelos
+- Deploy em ambiente cloud
+- MLOps para versionamento e monitoramento
+- Novos algoritmos de detecção de anomalias
 
 ---
 
 # 👩‍💻 Autora
 
-**Barbara Nascimento de Freitas Silva**
+**Barbara Freitas**
 
-Projeto desenvolvido no contexto do Bootcamp da DIO em parceria com a Accenture Brasil, na trilha de **Python para Análise e Automação de Dados**.
+📊 Data Analytics • Machine Learning • Generative AI • Financial Intelligence
 
----
+🔗 **GitHub**  
+https://github.com/BARBARANFS
 
-## 🎯 Contexto do Bootcamp
-
-Este projeto foi construído como parte de uma formação prática voltada ao uso de Python, dados e inteligência artificial aplicada em cenários reais de mercado.
-
-A trilha aborda o desenvolvimento de competências técnicas em:
-
-- 🐍 Programação com Python aplicada a dados e automação  
-- 🗄️ Construção de consultas SQL com suporte de ferramentas assistidas  
-- 📊 Manipulação, tratamento e visualização de dados com bibliotecas do mercado  
-- 🤖 Uso de inteligência artificial e engenharia de prompts no fluxo de desenvolvimento  
-- ⚙️ Automação de processos com foco em eficiência e produtividade  
-- 🧠 Desenvolvimento de soluções baseadas em IA generativa e assistentes inteligentes  
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/barbarafreitas-dataanalytics
 
 ---
 
-## 🚀 Projeto Final da Trilha
+<div align="center">
 
-Como entrega prática, a formação propõe a construção de soluções completas integrando:
+⭐ Se este projeto foi interessante para você, considere deixar uma estrela no repositório.
 
-- Python para análise e automação de dados  
-- SQL para extração e manipulação de dados  
-- IA generativa aplicada a soluções funcionais  
-- Construção de projetos de portfólio com foco em problemas reais  
-
----
-
-## 🎯 Competências Demonstradas no Projeto
-
-Este projeto aplica os conhecimentos do bootcamp em um cenário de detecção de fraudes financeiras, incluindo:
-
-- 📊 Análise exploratória de dados  
-- 🧠 Machine Learning aplicado a risco e fraude  
-- 🔍 Explainable AI (XAI) para interpretabilidade de modelos  
-- 💰 Análise de impacto financeiro e risco  
-- 📈 Visualização de dados e dashboards executivos  
-- ⚙️ Estruturação de pipeline de dados e automação de fluxo analítico  
-
----
-
-<p align="center">
-
-🛡️ FraudShield AI 2.0
-
-Machine Learning • Explainable AI • Financial Risk Analytics
-
-</p>
+</div>
